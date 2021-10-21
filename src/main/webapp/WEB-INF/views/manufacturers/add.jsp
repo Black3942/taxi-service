@@ -5,6 +5,7 @@
 </style>
 <html>
 <head>
+    <tr><td><a href="${pageContext.request.contextPath}/">Home</a></td></tr>
     <title>Manufacturers</title>
 </head>
 <body>
