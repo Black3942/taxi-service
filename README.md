@@ -32,7 +32,7 @@ This is a simple application of the driver's registration system. The system use
 2. Install MySQL
 3. Install Tomcat 9.0.54 version
 4. In src/main/resources directory you can find init_db.sql file. Use it to initialize you database
-5. Go to the ConnectionUtil class located in src/main/java/mate/util and add your url to DB, login, password and JDBC driver there.
+5. Go to the ConnectionUtil class located in src/main/java/taxi/util and add your url to DB, login, password and JDBC driver there.
    (You should add a Timezone to it too)
 6. Configure your Tomcat. (Your application context needs to be as "/")
 7. Run this project using Tomcat's local server
