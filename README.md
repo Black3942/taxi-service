@@ -5,7 +5,7 @@ This is a simple application of the driver's registration system. The system use
 - Create a new driver (user) with the "Register" button (the user is the driver).
 - Login the driver. When invalid login or password we get an "Error" message on our web page.
 - Show all drivers and drivers info. Here we can delete the driver from DB. When deleting driver - the driver is unassigning from all cars.
-- Show all cars and cars info. Here we can delete the car from DB (soft delete). When deleting the car - all drivers are unssigning from this car.
+- Show all cars and cars info. Here we can delete the car from DB (using soft delete). When deleting the car - all drivers are unssigning from this car.
 - Show all manufacturers and manufacturers info. Here we can delete the manufacturer from DB.
 - Add a new driver (same form like in "Register" button).
 - Add a new car. Also, here we see a list of all cars for convenience.
